@@ -1,0 +1,26 @@
+{
+  "name": "font-friends-fu",
+  "version": "1.0.0",
+  "description": "Webpack font from kyoyababa/font-FriendsFu.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Komica20160704/font-friends-fu.git"
+  },
+  "keywords": [
+    "font-FriendsFu",
+    "Kemono-Friends",
+    "font",
+    "font-face",
+    "css"
+  ],
+  "author": "Komica20160704",
+  "license": "MIT.",
+  "bugs": {
+    "url": "https://github.com/Komica20160704/font-friends-fu/issues"
+  },
+  "homepage": "https://github.com/Komica20160704/font-friends-fu#readme"
+}
