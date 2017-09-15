@@ -2,13 +2,14 @@
   "name": "font-friends-fu",
   "version": "1.0.0",
   "description": "Webpack font from kyoyababa/font-FriendsFu.",
-  "main": "index.js",
+  "style": "css/font-friends-fu.css",
   "scripts": {
+    "build": "webpack",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Komica20160704/font-friends-fu.git"
+    "url": "https://github.com/Komica20160704/font-friends-fu"
   },
   "keywords": [
     "font-FriendsFu",
@@ -22,5 +23,6 @@
   "bugs": {
     "url": "https://github.com/Komica20160704/font-friends-fu/issues"
   },
-  "homepage": "https://github.com/Komica20160704/font-friends-fu#readme"
+  "homepage": "https://github.com/Komica20160704/font-friends-fu#readme",
+  "devDependencies": {}
 }
