@@ -1,12 +1,7 @@
-/*!
- *  font-friends-fu 1.0.0 by Komica20160704@github.com
- *  License - MIT License
- */
-
 @font-face {
   font-family: 'FriendsFu';
-  src: url('../fonts/FriendsFu.otf?v=1.0.0');
-  src: url('../fonts/FriendsFu.otf?v=1.0.0') format('opentype'), url('../fonts/FriendsFu.woff2?v=1.0.0') format('woff2'), url('../fonts/FriendsFu.woff?v=1.0.0') format('woff'), url('../fonts/FriendsFu.ttf?v=1.0.0') format('truetype');
+  src: url('../fonts/FriendsFu.otf?v=1.0.2');
+  src: url('../fonts/FriendsFu.otf?v=1.0.2') format('opentype'), url('../fonts/FriendsFu.woff2?v=1.0.2') format('woff2'), url('../fonts/FriendsFu.woff?v=1.0.2') format('woff'), url('../fonts/FriendsFu.ttf?v=1.0.2') format('truetype');
   font-weight: normal;
   font-style: normal;
 }

@@ -1,0 +1,10 @@
+$friends-fu-version: '1.0.2';
+$friends-fu-font-path: '../fonts' !default;
+
+@font-face {
+  font-family: 'FriendsFu';
+  src: url('#{$friends-fu-font-path}/FriendsFu.otf?v=#{$friends-fu-version}');
+  src: url('#{$friends-fu-font-path}/FriendsFu.otf?v=#{$friends-fu-version}') format('opentype'), url('#{$friends-fu-font-path}/FriendsFu.woff2?v=#{$friends-fu-version}') format('woff2'), url('#{$friends-fu-font-path}/FriendsFu.woff?v=#{$friends-fu-version}') format('woff'), url('#{$friends-fu-font-path}/FriendsFu.ttf?v=#{$friends-fu-version}') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
